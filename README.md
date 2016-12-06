@@ -13,10 +13,11 @@ This repository has places to eat for the following cities:
 * [Hyderabad, Telangana](/locations/Hyderabad)
 * [Newport Beach, CA](/locations/Newport Beach)
 * [Orlando, FL](/locations/Orlando)
+* [Piscataway, New Jersey](/locations/Piscataway)
 * [Seattle, WA](/locations/Seattle)
 * [The Woodlands, TX](/locations/The Woodlands)
 * [Vernon Hills, IL](/locations/Vernon Hills)
-*[Piscataway, New Jersey](/locations/Piscataway)
+
 
 ## Contributing
 
